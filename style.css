@@ -1,0 +1,97 @@
+*{
+    max-width: 901px;
+    margin: auto;
+}
+header nav ul a{
+    float: right;
+    padding: 2px;
+}
+header nav ul a.left{
+    padding-left: 3px;
+}
+
+main nav.top h1{
+    font-size: 50px;
+    font-family: FMarker Felt;
+}
+main nav.top p {
+    color: gray;
+}
+main nav.top a{
+    float: right;
+    font-size: 11px;
+    text-decoration: none;
+    color: gray;
+}
+main nav.top img{
+    float: right;
+}
+main nav.mid p{
+    font-size: 20px;
+    color: rgb(85, 85, 85);
+}
+main div.all{
+    position: relative;
+}
+
+main div.first6{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 21px;
+  float: left;
+  padding: 50px 0px 25px 30px;
+  color: rgb(51, 16, 16);
+  font-family: Cursive;
+
+}
+main nav.last6{
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 21px;
+    float: right;
+    padding: 50px 0px 25px 30px;
+    color: rgb(51, 16, 16);
+    font-family: Cursive;
+
+}
+
+footer div img{
+float: left;
+}
+footer div h3{
+    text-align: left; 
+    font-size: 25px;  
+    padding-bottom: 10px; 
+}
+footer nav p{
+    font-size: 17px;
+}
+footer form input{
+    float: right;
+    background-color:rgb(202, 115, 88);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+footer nav.bottom{
+    margin: auto;
+}
+footer hr.left{
+    float: left;
+}
+footer img.center{
+display:inline-block;
+}
+footer hr.right{
+    float: right;
+}
+footer p.bottom{
+    text-align: center;
+    color: rgb(136, 136, 136);
+}
