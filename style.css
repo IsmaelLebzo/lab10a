@@ -2,6 +2,13 @@
     max-width: 901px;
     margin: auto;
 }
+header nav ul p{
+    float: left;
+}
+header nav ul h3{
+    font-size: 25px;
+    font-family: segoe script;
+}
 header nav ul a{
     float: right;
     padding: 2px;
